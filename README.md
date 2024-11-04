@@ -1,7 +1,7 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FMuniir1&psig=AOvVaw0WRfY306rwTCSCZ2sY5XBg&ust=1730789443409000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCPzM2LwokDFQAAAAAdAAAAABAR)]
+[![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)))](https://paras-13.io)
 <h1 align="center">Hi 👋, I'm Abul Faiz Sakubar Ali</h1>
 <h3 align="center">Student of BSc (Hons) Computer Science at the University of the West of England (UWE)</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 
 - 🌱 I’m currently learning **PHP , Java Script**
@@ -28,3 +28,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abulfaizzz&show_icons=true&locale=en" alt="abulfaizzz" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abulfaizzz&" alt="abulfaizzz" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abulfaizzz" alt="abulfaizzz" /></a> </p>
