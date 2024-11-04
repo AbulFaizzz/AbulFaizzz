@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fspec.nith.ac.in%2FBLOGS%2Fpost12.html&psig=AOvVaw1DwmMscNWkj08Y4GHG8yxG&ust=1730786904350000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqGAoTCJiz4Y6CwokDFQAAAAAdAAAAABCGAQ)]
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmuhammedcuma.medium.com%2Fmastering-advanced-web-development-techniques-tools-and-best-practices-36376a949914&psig=AOvVaw1DwmMscNWkj08Y4GHG8yxG&ust=1730786904350000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqGAoTCJiz4Y6CwokDFQAAAAAdAAAAABCOAQ)]
 <h1 align="center">Hi 👋, I'm Abul Faiz Sakubar Ali</h1>
 <h3 align="center">Student of BSc (Hons) Computer Science at the University of the West of England (UWE)</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
