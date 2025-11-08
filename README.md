@@ -23,110 +23,105 @@
 <p align="left">
 
   <!-- Core Languages & Frameworks -->
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   </a>
 
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   </a>
 
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
   </a>
 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nextdotjs.svg" width="40" height="40"/>
   </a>
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   </a>
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   </a>
 
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/>
+  <a href="https://laravel.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40"/>
   </a>
 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
   </a>
 
-  <!-- Automation Platforms -->
-  <a href="https://n8n.io/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" alt="n8n" width="40" height="40"/>
+  <!-- Automation -->
+  <a href="https://n8n.io/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="40" height="40"/>
   </a>
 
-  <a href="https://zapier.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Zapier_logo.svg" alt="zapier" width="40" height="40"/>
+  <a href="https://zapier.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/zapier.svg" width="40" height="40"/>
   </a>
 
-  <a href="https://www.make.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.make.com/assets/img/make-logo-purple.svg" alt="make" width="40" height="40"/>
+  <a href="https://www.make.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/make.svg" width="40" height="40"/>
   </a>
 
-  <!-- Tools & Platforms -->
-  <a href="https://www.supabase.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg" alt="supabase" width="40" height="40"/>
+  <!-- Platforms & Tools -->
+  <a href="https://supabase.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/supabase.svg" width="40" height="40"/>
   </a>
 
-  <a href="https://airtable.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/airtable/airtable-icon.svg" alt="airtable" width="40" height="40"/>
+  <a href="https://airtable.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/airtable.svg" width="40" height="40"/>
   </a>
 
-  <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="notion" width="40" height="40"/>
+  <a href="https://www.notion.so/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/notion.svg" width="40" height="40"/>
   </a>
 
-  <a href="https://console.cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/>
+  <a href="https://cloud.google.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlecloud.svg" width="40" height="40"/>
   </a>
 
-  <a href="https://replit.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/replit/replit-icon.svg" alt="replit" width="40" height="40"/>
+  <a href="https://replit.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/replit.svg" width="40" height="40"/>
   </a>
 
-  <a href="https://loveable.ai/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/168850012?s=200&v=4" alt="loveable" width="40" height="40"/>
+  <a href="https://loveable.ai/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/168850012?s=200&v=4" width="40" height="40"/>
   </a>
 
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/>
+  <a href="https://trello.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40"/>
   </a>
 
-  <a href="https://slack.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="slack" width="40" height="40"/>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftexcel.svg" width="40" height="40"/>
   </a>
 
-  <a href="https://www.microsoft.com/en-us/microsoft-365/outlook" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Microsoft_Office_Outlook_%282018–present%29.svg" alt="outlook" width="40" height="40"/>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
   </a>
 
-  <a href="https://trello.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" width="40" height="40"/>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   </a>
 
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282018–present%29.svg" alt="excel" width="40" height="40"/>
+  <a href="https://github.com/features/actions" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/githubactions.svg" width="40" height="40"/>
   </a>
 
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  <a href="https://slack.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/slack.svg" width="40" height="40"/>
   </a>
 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  </a>
-
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="github actions" width="40" height="40"/>
+  <a href="https://outlook.live.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftoutlook.svg" width="40" height="40"/>
   </a>
 
 </p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abulfaizzz&show_icons=true&locale=en&layout=compact" alt="abulfaizzz" /></p>
 
